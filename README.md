@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science undergraduate interested in data analytics and business insights.<br>Working with SQL and Excel on projects involving customer analysis, cost analysis, and dashboards.<br>Currently learning data visualization and continuously improving analytical skills through hands-on projects.
+I'm a 3rd year Computer Science student with a background in data analytics, now expanding into full-stack development. I combine analytical thinking with building applications that solve real problems.
 
 
 ## 🌐 Socials:
